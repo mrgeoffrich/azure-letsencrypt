@@ -1,0 +1,11 @@
+.awcache
+.cache-loader
+.localstorage
+.vscode
+build
+contents
+logs
+minio
+node_modules
+deploy
+src/webpack/webpack.config.dev.js
